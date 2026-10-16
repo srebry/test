@@ -1,0 +1,28 @@
+Felix Huyghe:
+
+\documentclass{article}
+\usepackage[dutch]{babel}
+\usepackage{hyperref}
+\usepackage{graphicx}
+
+\title{Ik en mijn favoriete stelling}
+\author{Felix Huyghe}
+\date{Groep Wetenschap en Technologie Kulak}
+
+\begin{document}
+	\maketitle
+	
+	\centering
+	\includegraphics[width=.50 \textwidth]{IMG_8340}
+	
+	Ik ben \textbf{Felix Huyghe}, student aan de Kulak in de richting Ingenieurswetenschappen. Ik luister graag naar muziek en speel ook zelf piano en cello. Ik kom uit Lauwe, waar ik ook in de scouts zit. Mijn contactgegevens zijn:
+	
+	\begin{itemize}
+		\item Mailadres: felix.huyghe1@student.kuleuven.be
+		\item Instagram: felix.huyghe
+		\item Adres kot: Steenbakkersstraat 12
+	\end{itemize}
+	
+	Mijn favoriete stelling is de alombekende stelling van ...
+	
+\end{document}
